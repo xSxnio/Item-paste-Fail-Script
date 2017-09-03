@@ -1,0 +1,2 @@
+# Item-paste-Fail-Script
+System.ArgumentException: Parameter is not valid.     at System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)     at PaintDotNet.Data.JpegFileType.OnLoad(Stream input) in D:\src\pdn\src\PaintDotNet\Data\JpegFileType.cs:line 78     at PaintDotNet.FileType.Load(Stream input) in D:\src\pdn\src\Data\FileType.cs:line 496     at PaintDotNet.Functional.Func.Eval[T1,TRet](Func`2 f, T1 arg1) in D:\src\pdn\src\Base\Functional\Func.cs:line 158
